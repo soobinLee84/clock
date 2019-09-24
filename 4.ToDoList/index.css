@@ -1,0 +1,19 @@
+body{
+    background-color:lightpink;
+    color: #34495e; 
+}
+
+h1{
+  
+   text-align: center;
+   vertical-align: sub;
+   font-size: 150px;
+}
+
+.form , .greetings {
+    display: none;
+}
+
+.showing{
+    display: block;
+}
